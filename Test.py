@@ -10,4 +10,4 @@ l = np.arange(0,1000)
  
 r = laplace_section(f, t, l)
 
-print(t[len(t)])
+print(r)
